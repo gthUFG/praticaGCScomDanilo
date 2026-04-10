@@ -15,7 +15,7 @@ solid #00bcd4;">
  "EXIBIR_IA": false // O "interruptor"
  };
  if (flags.EXIBIR_IA) {
- document.getElementById('nova-funcao').style.display = 'block';
+ document.getElementById('nova-funcao-2').style.display = 'block';
  }
  </script>
 </body>
